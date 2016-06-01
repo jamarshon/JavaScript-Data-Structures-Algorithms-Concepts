@@ -1,0 +1,17 @@
+/* Adding CSS */
+/* External style sheet */
+<head>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+/* Internal style sheet */
+<head>
+	<style>
+		body {
+		    background-color: linen;
+		}
+	</style>
+</head>
+
+/* Inline style */
+<body style="background-color: linen">

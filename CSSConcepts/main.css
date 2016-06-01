@@ -1,5 +1,0 @@
-// Selectors
-a b 	// all b elements that are children of a
-a > b 	// all b elements that are a DIRECT children of a
-a, b	// all a or b elements
-a.b		// all elements with the class a and b

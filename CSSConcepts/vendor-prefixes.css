@@ -1,0 +1,18 @@
+/* The best practise is undisputedly to have the unprefixed property last: */
+.foo {
+    -moz-border-radius: 10px;    /* Mozilla */
+    -webkit-border-radius: 10px; /* Webkit */
+    border-radius: 10px;         /* W3C */
+}
+
+/*
+Whichever is last out of -webkit-border-radius and border-radius will be 
+the one that's used.
+
+-webkit-border-radius is the "experimental" property - the implementation may 
+contain deviations from the specification. The implementation for border-radius 
+should match what's in the specification.
+
+It's preferable to have the W3C implementation used when it's available, to 
+help ensure consistency between all the browsers that support it.
+*/

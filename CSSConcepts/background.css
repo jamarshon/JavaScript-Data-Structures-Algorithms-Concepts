@@ -1,0 +1,49 @@
+/* Background */
+body {
+	background-color: linen;
+}
+
+/* background-repeat repeats a background-image using a certain schematic
+for example, repeat-y would cause the image to repeat only vertically:
+default value: repeat 
+possible values: repeat-x, repeat-y, no-repeat*/
+body {
+	background-image: url("paper.gif");
+	background-repeat: repeat-y;
+}
+
+/* background-position sets starting position of a background image
+By default, a background-image is placed at the top-left corner of an element
+default value: 0% 0% 
+possible values: left top, x% y%, xpos(px) ypos(px) */
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+} 
+
+/* background shorthand where setting multiple properties at once
+Order does not matter but suggested is IPSRABC or mnemonic "I pee sir, Abby! See?" 
+*/
+body {
+	background: 
+	    url("content.jpg") 
+	    left top / 200px 70px
+	    no-repeat
+	    scroll
+	    content-box content-box
+	    white;
+}
+
+/* or */
+
+body {
+	background-image: url("content.jpg") ;
+	background-position: left top;
+	background-size: 200px 70px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-clip: content-box;
+	background-origin: content-box;
+	background-color: white;
+}
