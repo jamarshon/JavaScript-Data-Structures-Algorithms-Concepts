@@ -1,0 +1,20 @@
+objects and prototypes
+sprites (advantages/disadvantages)
+attributes and properties (differences and similarities)
+event bubbling
+JSON vs JSONP
+deferreds/promises
+event delegation
+CSS floats/grids
+client/server model
+closures (very important concept!)
+callbacks
+context/scope (this)
+GET/POST requests
+ajax/pjax
+same-origin policies
+XMLHttpRequests
+optimization of site resources (methods, how, why)
+elements that influence page load times
+box model
+DOM element positioning (absolute, relative, etc)
