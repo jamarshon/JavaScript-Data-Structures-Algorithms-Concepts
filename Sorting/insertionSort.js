@@ -9,9 +9,9 @@ function insertionSort(arr) {
 			if(jValue < currValue) {
 				break;
 			}
-			arr[j+1] = jValue;
+			arr[j + 1] = jValue;
 		}
-		arr[j+1] = currValue;
+		arr[j + 1] = currValue;
 	}
 	return arr;
 }
