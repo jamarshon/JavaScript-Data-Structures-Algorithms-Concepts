@@ -1,0 +1,50 @@
+Inheritance---------------------------------------------------------------------------
+
+Encapsulation---------------------------------------------------------------------------
+Encapsulation is defined 'as the process of enclosing one or more items within a physical or 
+logical package'. Encapsulation, in object oriented programming methodology, prevents access 
+to implementation details.
+
+Abstraction and encapsulation are related features in object oriented programming. Abstraction 
+allows making relevant information visible and encapsulation enables a programmer to implement 
+the desired level of abstraction.
+
+Encapsulation is implemented by using access specifiers. An access specifier defines the 
+scope and visibility of a class member. C# supports the following access specifiers:
+
+Public
+Private
+Protected
+Internal
+Protected internal
+
+Encapsulation vs Abstraction---------------------------------------------------------------------------
+Abstraction has to do with separating interface from implementation.
+Encapsulation has to do with disallowing access to or knowledge of internal 
+structures of an implementation.
+
+Polymorphism---------------------------------------------------------------------------
+At run time, objects of a derived class may be treated as objects of a base class 
+in places such as method parameters and collections or arrays. When this occurs, the 
+object's declared type is no longer identical to its run-time type.
+
+Base classes may define and implement virtual methods, and derived classes can override 
+them, which means they provide their own definition and implementation. At run-time, when 
+client code calls the method, the CLR looks up the run-time type of the object, and invokes 
+that override of the virtual method. Thus in your source code you can call a method on a base 
+class, and cause a derived class's version of the method to be executed.
+
+Function Overloading
+You can have multiple definitions for the same function name in the same scope. The definition of 
+the function must differ from each other by the types and/or the number of arguments in the argument 
+list. You cannot overload function declarations that differ only by return type.
+
+void print(double f)
+{
+ Console.WriteLine("Printing float: {0}" , f);
+}
+
+void print(string s)
+{
+ Console.WriteLine("Printing string: {0}", s);
+}

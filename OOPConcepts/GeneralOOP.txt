@@ -1,0 +1,82 @@
+Classes and Objects---------------------------------------------------------------------------
+The terms class and object are sometimes used interchangeably, but in fact, classes describe 
+the type of objects, while objects are usable instances of classes. So, the act of creating 
+an object is called instantiation. Using the blueprint analogy, a class is a blueprint, 
+and an object is a building made from that blueprint.
+
+Constructors---------------------------------------------------------------------------
+Constructors are class methods that are executed automatically when an object of a 
+given type is created. Constructors usually initialize the data members of the new 
+object. A constructor can run only once when a class is created. Furthermore, the code 
+in the constructor always runs before any other code in a class. However, you can create 
+multiple constructor overloads in the same way as for any other method.
+
+Destructors---------------------------------------------------------------------------
+Destructors are used to destruct instances of classes. In the .NET Framework, the garbage 
+collector automatically manages the allocation and release of memory for the managed objects 
+in your application. However, you may still need destructors to clean up any unmanaged resources 
+that your application creates. There can be only one destructor for a class.
+
+Static Classes and Members---------------------------------------------------------------------------
+A static member of the class is a property, procedure, or field that is shared by 
+all instances of a class.
+
+Inheritance---------------------------------------------------------------------------
+Inheritance enables you to create a new class that reuses, extends, and modifies the behavior 
+that is defined in another class. The class whose members are inherited is called the base 
+class, and the class that inherits those members is called the derived class.
+
+class DerivedClass:BaseClass{}
+
+Overriding Members---------------------------------------------------------------------------
+By default, a derived class inherits all members from its base class. If you want to 
+change the behavior of the inherited member, you need to override it. That is, you can 
+define a new implementation of the method, property or event in the derived class.
+
+virtual: Allows a class member to be overridden in a derived class.
+override: Overrides a virtual (overridable) member defined in the base class.
+abstract: Requires that a class member to be overridden in the derived class.
+new Modifier: Hides a member inherited from a base class
+
+Interfaces---------------------------------------------------------------------------
+Interfaces, like classes, define a set of properties, methods, and events. But 
+unlike classes, interfaces do not provide implementation. They are implemented by classes, 
+and defined as separate entities from classes. An interface represents a contract, in that 
+a class that implements an interface must implement every aspect of that interface exactly 
+as it is defined.
+
+interface ISampleInterface
+{
+    void doSomething();
+}
+
+class SampleClass : ISampleInterface
+{
+    void ISampleInterface.doSomething()
+    {
+        // Method implementation.
+    }
+}
+
+Delegates---------------------------------------------------------------------------
+A delegate is a type that defines a method signature, and can provide a reference to 
+any method with a compatible signature. You can invoke (or call) the method through the 
+delegate. Delegates are used to pass methods as arguments to other methods.
+
+public delegate void SampleDelegate(string str);
+
+class SampleClass
+{
+    // Method that matches the SampleDelegate signature.
+    public static void sampleMethod(string message)
+    {
+        // Add code here.
+    }
+    // Method that instantiates the delegate.
+    void SampleDelegate()
+    {
+        SampleDelegate sd = sampleMethod;
+        sd("Sample string");
+    }
+}
+
