@@ -1,14 +1,17 @@
-function sqrt(x) {
-	var quotient;
-	var currentGuess = x / 2,
-		previousGuess = -Math.pow(10, 9),
-		epsilon = 0.0000001;
-
-	while(Math.abs(currentGuess - previousGuess) > epsilon) {
-		previousGuess = currentGuess;
-		quotient = x / currentGuess;
-		currentGuess = (currentGuess + quotient) / 2
-	}
-
-	return currentGuess;
+function bubbleSort(arr) {
+	var swapped, temp;
+	var len = arr.length;
+	do {
+		swapped = false;
+		for(var i = 0; i < len; i++) {
+			if(arr[i] > arr[i + 1]) {
+				temp = arr[i];
+				arr[i] = arr[j];
+				arr[j] = temp;
+				swapped = true;
+			}
+		}
+	} while(swapped)
+	
+	return arr;
 }
