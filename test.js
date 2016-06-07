@@ -1,17 +1,16 @@
-function bubbleSort(arr) {
-	var swapped, temp;
-	var len = arr.length;
-	do {
-		swapped = false;
+function permutate(str) {
+	var result = [];
+	permutation("", str, result);
+	return result;
+}
+
+function permutation(prefix, str, result) {
+	var len = str.length;
+	if(len === 0) {
+		result.push(prefix);
+	} else {
 		for(var i = 0; i < len; i++) {
-			if(arr[i] > arr[i + 1]) {
-				temp = arr[i];
-				arr[i] = arr[j];
-				arr[j] = temp;
-				swapped = true;
-			}
+			permutation(prefix + str[i], str.slice(0, i) + str.slice(i + 1), result);
 		}
-	} while(swapped)
-	
-	return arr;
+	}
 }
