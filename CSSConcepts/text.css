@@ -1,0 +1,43 @@
+/* Text */
+
+/*color property specifies the color of text.*/
+body {
+    color: red;
+}
+
+
+/*text-align property specifies the horizontal alignment of text in an element.
+default value: left if direction is ltr, and right if direction is rtl
+possible values: left, right, center, justify, initial, inherit*/
+h1 {
+    text-align: center;
+}
+
+/*text-decoration property specifies the decoration added to text.
+
+Note: In CSS3, the text-decoration property is a shorthand property for 
+text-decoration-line, text-decoration-color, and text-decoration-style, 
+but this is currently not supported in any of the major browsers.
+
+Note: In CSS3 you can use the text-decoration-color property to change the 
+color of the decoration, otherwise the color is the same as the color of the text.
+
+default value: none
+possible values: none, underline, overline, line-through, initial, inherit*/
+h1 {
+    text-decoration: overline;
+}
+
+/*text-transform property controls the capitalization of text.
+default value: none
+possible values: none, capitalize, uppercase, lowercase, initial, inherit*/
+p.uppercase {
+    text-transform: uppercase;
+}
+
+/*text-indent property specifies the indentation of the first line in a text-block.
+default value: 0
+possible values: indent(px)*/
+p {
+    text-indent: 50px;
+}
