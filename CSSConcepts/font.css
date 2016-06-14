@@ -1,0 +1,66 @@
+/* Font */
+
+/*font-family specifies the font for an element.
+
+The font-family property can hold several font names as a "fallback" system. 
+If the browser does not support the first font, it tries the next font.
+
+There are two types of font family names:
+
+family-name - The name of a font-family, like "times", "courier", "arial", etc.
+generic-family - The name of a generic-family, like "serif", "sans-serif", "cursive", 
+"fantasy", "monospace".
+
+Start with the font you want, and always end with a generic family, to let the browser 
+pick a similar font in the generic family, if no other fonts are available.
+
+Note: Separate each value with a comma.
+
+Note: If a font name contains white-space, it must be quoted. Single quotes must be 
+used when using the "style" attribute in HTML.
+
+default value: depends on browser */
+p {
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+/*font-style property specifies the font style for a text.
+
+default value:	normal
+possible values: normal, italic, oblique, initial, inherit*/
+p {
+    font-style: italic;
+}
+
+/*font-size property sets the size of a font.
+
+Default value:	medium
+possible values :medium, xx-small, x-small, small, large, x-large, xx-large, 
+smaller, larger, length, initial, inherit
+*/
+h2 {
+    font-size: 200%;
+}
+
+/*font-weight property sets how thick or thin characters in text should be displayed.
+
+default value:	normal
+possible values: normal, bold, bolder, lighter, number, initial, inherit*/
+p {
+    font-weight: bold;
+}
+
+/*font shorthand property sets all the font properties in one declaration.
+
+The properties that can be set, are (in order): 
+"font-style font-variant font-weight font-size/line-height font-family"
+
+The font-size and font-family values are required. If one of the other 
+values are missing, the default values will be inserted, if any.
+
+Note: The line-height property sets the space between lines.
+
+possible values:"font-style font-variant font-weight font-size/line-height font-family"*/
+p.ex2 {
+    font: italic bold 12px/30px Georgia, serif;
+}
