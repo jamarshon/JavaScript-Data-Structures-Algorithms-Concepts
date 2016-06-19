@@ -1,0 +1,12 @@
+What HTTP Headers is my browser sending?
+
+There were 8 headers sent:
+ACCEPT						text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+ACCEPT_ENCODING				gzip, deflate, sdch, br
+ACCEPT_LANGUAGE				en-GB,en-US;q=0.8,en;q=0.6
+CONNECTION					keep-alive
+HOST						www.whatismybrowser.com
+REFERER						https://www.google.ca/
+UPGRADE_INSECURE_REQUESTS	1
+USER_AGENT					Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) 
+							Chrome/51.0.2704.84 Safari/537.36
