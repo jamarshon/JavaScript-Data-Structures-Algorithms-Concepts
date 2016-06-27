@@ -1,0 +1,31 @@
+Two HTTP Request Methods: GET and POST
+Two commonly used methods for a request-response between a client and server are: GET and POST.
+
+GET - Requests data from a specified resource
+POST - Submits data to be processed to a specified resource
+
+The GET Method
+Note that the query string (name/value pairs) is sent in the URL of a GET request:
+
+/test/demo_form.asp?name1=value1&name2=value2
+Some other notes on GET requests:
+
+GET requests can be cached
+GET requests remain in the browser history
+GET requests can be bookmarked
+GET requests should never be used when dealing with sensitive data
+GET requests have length restrictions
+GET requests should be used only to retrieve data
+
+The POST Method
+Note that the query string (name/value pairs) is sent in the HTTP message body of a POST request:
+
+POST /test/demo_form.asp HTTP/1.1
+Host: w3schools.com
+name1=value1&name2=value2
+Some other notes on POST requests:
+
+POST requests are never cached
+POST requests do not remain in the browser history
+POST requests cannot be bookmarked
+POST requests have no restrictions on data length
