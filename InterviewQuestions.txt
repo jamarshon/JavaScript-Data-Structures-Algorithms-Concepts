@@ -1,18 +1,12 @@
-k largest elements
-
 1. combine two sorted lists, ask time complexity 
 2. combine kth sorted lists, run example and explain 
 3. given iterator of list and how to combine them
-
-Given an array of strings, remove any duplicates and return a new array containing the first occurrence of each string.
 
 Implement a sorted circular linked list.
 
 How many times would `addEventListener('scroll', handleScroll);` run as the user looks at their News Feed? And what would be user experience if the `handleScroll` function takes 100ms to execute.
 
 Related to question 1, how could you implement debouncing? Say you wanted the `handleScroll` function to be called only after 200ms has passed between scroll events.
-
-1. In JavaScript, write a function that takes an array as input that can contain both ints and more arrays (which can also contain an array or int) and return the flattened array.
 
 2. Using HTML and CSS, show how you would create an image that would display another image (aligned to the bottom, right) when the user hovers over the image.
 
@@ -22,13 +16,9 @@ How would you ensure clicking on this picture would go to a specific link?
 
 How would you ensure the child is positioned in the top right of the parent picture?
 
-Given an array, return it's flattened structure(skip objects)
-
-.call vs .apply,
-
 If you have 500 revisions of a program, write a program that will find and return the FIRST bad revision given a isBad(revision i) function.
 
-difference between == and === , difference between block and inline and I forgot the third
+difference between block and inline and I forgot the third
 
 Given two identical DOM trees (not the same one), and a node from one of them find the node in the other one.
 
@@ -42,5 +32,3 @@ Basic JavaScript async stuff (you should know event bubbling, debounce (its vari
 Poll Widget question (just know your positioning, relative, static etc know the differences inside out). You might want to know specificity as well.
 
 Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops.
-
-Implement a square root function.
