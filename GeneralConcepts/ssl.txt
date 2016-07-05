@@ -1,0 +1,62 @@
+SSL (Secure Sockets Layer) is the standard security technology for establishing an encrypted 
+link between a web server and a browser. This link ensures that all data passed between the web 
+server and browsers remain private and integral.
+
+SSL protects data in transit by encrypting it. It only ensures, to a client, that data will 
+make it from their computer to your server without being intercepted or altered 
+(the encrypted data could be intercepted but has no meaning without decryption). 
+That said, it is the client's responsibility to ensure that SSL is functioning properly 
+before they send any data or trust output from the server. There are attacks that will 
+remove SSL from the connection, but not that will intercept or alter data sent over a 
+secured SSL connection.
+
+SSL does not provide any security once the data is on the server. It is still necessary 
+to use hashing and server side encryption if you want to protect the data at rest from breaches 
+to the server itself.
+
+HTTPS is HTTP sent over an SSL encrypted connection. It covers both GET and POST and any other 
+HTTP actions as the entire HTTP stream occurs unaltered but is passed through an SSL tunnel 
+to the client browser.
+
+Principle of HTTPS operation
+
+HTTP protocol is built on top of TCP. TCP guarantees that the data will be delivered, or it is 
+impossible to deliver (target not reachable, etc.). You open a TCP connection and send HTTP messages 
+through it.
+
+But TCP does not guarantee any level of security. Therefore an intermediate layer named SSL 
+is put between TCP and HTTP and you get the so called HTTPS. This way of working is called 
+tunneling – you dump data into one end of (SSL) tunnel and collect it at the other one. SSL 
+gets HTTP messages, encrypts them, sends them over TCP and decrypts them again at the other end. 
+Encryption protects you from eavesdropping and transparent MITM attack (altering the messages).
+
+But SSL does not only provide encryption, it also provides authentication. Server must have 
+a certificate signed by a well known certification authority (CA) that proves its identity. 
+Without authentication, encryption is useless as MITM attack is still possible. The attacker 
+could trick you into thinking that he is the server you want to connect to. Private chat with 
+the devil is not what you want, you want to verify that the server you are connecting to 
+really is the one you want to connect to. Authentication protects you from MITM.
+
+Weak points
+
+So where are the weak points?
+
+Endpoints of secure connection. The transfer could be secure, but what about the server itself? Or 
+the client? They may not.
+Not using HTTPS. Users can be tricked into not using the scheme in various ways.
+Untrustworthy CAs. They break the authentication part, allowing for MITM attack.
+Weak encryption mechanism. This is generally not an issue, IMO.
+Implementation of the scheme. Well, if you specify A and implement B, properties of A may not hold for B.
+
+Direct answers
+
+You seem to say that you secured the transfer (using SSL). This is not enough, the security of 
+your server can be compromised – you should not store passwords there in plain text, use their 
+hashed form, with salt added, …
+SSL encrypts data both when sending and receiving. MITM attacks are possible virtually only 
+when the attacker has certificate signed by an authority the client trusts. Unless the client 
+is tricked into not using HTTPS, nobody can read nor modify the messages being sent.
+GET and POST are just two methods of making HTTP request. There are several other, too. 
+Method is just a property of HTTP request. All messages are secured, both requests and responses, 
+regardless of HTTP method being used.
+

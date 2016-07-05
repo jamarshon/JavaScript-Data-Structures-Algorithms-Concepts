@@ -1,0 +1,18 @@
+HTTP is the protocol of the Web, by which Servers and Clients (typically
+browsers) communicate. An HTTP transaction comprises a Request sent by
+the Client to the Server, and a Response returned from the Server to the Client.
+
+Every HTTP request and response includes a message header, describing the message. These are processed 
+by the HTTPD, and may often be mostly ignored by CGI applications (but see below).
+
+A message body may also be included:
+1) A HEAD or GET request sends only a header. Any form data is encoded 
+	in an HTTP_QUERY_STRING header field, which is available to the CGI program as an environment variable 
+	QUERY_STRING.
+
+2) A POST request sends both header and body. The body typically comprises data entered by a user in a form.
+
+3) A HEAD request does not expect a body in the response.
+
+4) A GET or POST request will accept a response with or without a body,according to the header. 
+	The body of a response is typically an HTML document.
