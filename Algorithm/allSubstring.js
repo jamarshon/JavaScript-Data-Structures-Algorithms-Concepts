@@ -1,5 +1,7 @@
-// Returns all substrings that appear in a string for example
-// allSubstring("rain") would result in ["r", "ra", "rai", "rain", "a", "ai", "ain", "i", "in", "n"]
+/*
+Returns all substrings that appear in a string for example
+allSubstring("rain") would result in ["r", "ra", "rai", "rain", "a", "ai", "ain", "i", "in", "n"]
+*/
 function allSubstring(str) {
    var len = str.length,
       retArr = [];

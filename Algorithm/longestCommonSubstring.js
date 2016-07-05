@@ -1,6 +1,8 @@
-/*Finds the longest common substring. For example 
+/*
+Finds the longest common substring. For example 
 longestCommonSubstring("abcdef", "zbcdf") should return bcd as that substring is the longest one
-that appears in both of them */
+that appears in both of them 
+*/
 function longestCommonSubstring(str1, str2) {
 	var matrix = [];
 	fill(matrix, str1, str2, 0);
