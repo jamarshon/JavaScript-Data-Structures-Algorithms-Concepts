@@ -1,0 +1,1680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ret",
+				"retObj"
+			],
+			[
+				"arr",
+				"arrOfObj"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"calcul",
+				"calculateMarkup"
+			],
+			[
+				"rawPrice",
+				"rawPriceAll"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"spl",
+				"splitArr"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"overflow-",
+				"overflow-y"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"price",
+				"pricePromise"
+			],
+			[
+				"style",
+				"styleCode"
+			],
+			[
+				"min",
+				"minValue"
+			],
+			[
+				"j",
+				"jValue"
+			],
+			[
+				"is",
+				"isPalindrome"
+			],
+			[
+				"sta",
+				"startIndex"
+			],
+			[
+				"n2",
+				"n2Val"
+			],
+			[
+				"b",
+				"bValue"
+			],
+			[
+				"a",
+				"aValue"
+			],
+			[
+				"en",
+				"enclosedElement"
+			],
+			[
+				"in",
+				"invalidCase"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"game",
+				"gamescreen"
+			],
+			[
+				"flatt",
+				"flattenHelper"
+			],
+			[
+				"curr",
+				"currRow"
+			],
+			[
+				"cur",
+				"currRow"
+			],
+			[
+				"left",
+				"leftCell"
+			],
+			[
+				"pi",
+				"pivotIndex"
+			],
+			[
+				"pivo",
+				"pivotInd"
+			],
+			[
+				"mid",
+				"midIndex"
+			],
+			[
+				"i",
+				"iLen"
+			],
+			[
+				"per",
+				"permutationHelper"
+			],
+			[
+				"binar",
+				"binarySearchHelper"
+			],
+			[
+				"qi",
+				"quickSortHelper"
+			],
+			[
+				"pivot",
+				"pivotInd"
+			],
+			[
+				"piv",
+				"pivotInd"
+			],
+			[
+				"asc",
+				"asciiStr"
+			],
+			[
+				"find",
+				"findEncodings"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"A",
+				"AVLTree"
+			],
+			[
+				"mer",
+				"mergeSort"
+			],
+			[
+				"rotArr",
+				"rotArrRow"
+			],
+			[
+				"quickSor",
+				"quickSortHelper"
+			],
+			[
+				"par",
+				"parseValue"
+			],
+			[
+				"value",
+				"valuesLen"
+			],
+			[
+				"Ut",
+				"utilHelper"
+			],
+			[
+				"transit",
+				"transition-duration"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"get",
+				"getPageId"
+			],
+			[
+				"_arrow",
+				"_arrowHelper"
+			],
+			[
+				"Arr",
+				"ArrowHelper"
+			],
+			[
+				"navi",
+				"navigateCallback"
+			],
+			[
+				"tile",
+				"tileModel"
+			],
+			[
+				"ex",
+				"externalLink"
+			],
+			[
+				"boot",
+				"bootstrapModal"
+			],
+			[
+				"start",
+				"startPage"
+			],
+			[
+				"util",
+				"UtilHelper"
+			],
+			[
+				"star",
+				"startPage"
+			],
+			[
+				"Starte",
+				"startPageView"
+			],
+			[
+				"pol",
+				"polyhedronDiv"
+			],
+			[
+				"navig",
+				"navigation-bar"
+			],
+			[
+				"template",
+				"templateLoader"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"templa",
+				"templateId"
+			],
+			[
+				"remove",
+				"removeArrows"
+			],
+			[
+				"prev",
+				"previousEnv"
+			],
+			[
+				"st",
+				"startPage"
+			],
+			[
+				"pre",
+				"previousArrowStr"
+			],
+			[
+				"env",
+				"environment"
+			],
+			[
+				"previ",
+				"previousArrow"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"banner",
+				"bannerDiv"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Algorithm/permutation.js",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Algorithm/factorsIsPrime.js",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Algorithm/toBinary.js",
+			"settings":
+			{
+				"buffer_size": 236,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SampleProblem/applyOperationsToArray.js",
+			"settings":
+			{
+				"buffer_size": 1851,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Algorithm/allSubstring.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Sorting/mergeSort.js",
+			"settings":
+			{
+				"buffer_size": 663,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Sorting/quickSort.js",
+			"settings":
+			{
+				"buffer_size": 785,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "JSConcepts/shift-unshift.js",
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/CustomC++Build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CustomC++Build.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CustomC++Build.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 341.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"subl",
+			"subl -v",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/simon/Dropbox/WATERLOO/Programming",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Sorting"
+	],
+	"file_history":
+	[
+		"/C/Users/simon/Downloads/ci-technology.txt",
+		"/C/Users/simon/Downloads/natural-resources-canada.txt",
+		"/C/Users/simon/Downloads/yahoo.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/shift-unshift.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/binarySearch.js",
+		"/C/Users/simon/Downloads/a/IRrecvDemo/IRrecvDemo.cpp",
+		"/C/Users/simon/Downloads/a/IRrecord/IRrecord.cpp",
+		"/C/Users/simon/Documents/Arduino/libraries/IRremote/IRremote2.cpp",
+		"/C/Users/simon/Downloads/a/IRrecord/IRrecord.pde",
+		"/C/Users/simon/Documents/Arduino/libraries/IRremote/examples/IRrecord/IRrecord.pde",
+		"/C/Users/simon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/simon/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/simon/AppData/Roaming/Sublime Text 3/Packages/User/CustomC++Build.sublime-build",
+		"/C/Users/simon/Documents/1/BME252/Assignment2/Program/findPeaks.m",
+		"/C/Users/simon/Documents/1/BME252/Assignment2/Program/DFT.m",
+		"/C/Users/simon/Documents/1/BME252/Assignment2/Program/determineTone.m",
+		"/C/Users/simon/Downloads/test2 (2).m",
+		"/C/Users/simon/Downloads/test2 (1).m",
+		"/C/Users/simon/Documents/MATLAB/261/findPeaks.m",
+		"/C/Users/simon/Documents/MATLAB/261/extrema.m",
+		"/C/Users/simon/Downloads/test2.m",
+		"/C/Users/simon/Downloads/DFT.m",
+		"/C/Users/simon/Documents/1/BME252/DFT.m",
+		"/C/Users/simon/Documents/GitHub/leetcode/1-9/1TwoSum.cpp",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts/postvsget.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts/ssl.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/inheritance.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts/http.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts/userauthentication.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures/levelOrder.js",
+		"/C/Users/simon/Documents/1/ParticleSwarm/ParticleSwarm3d.m",
+		"/C/Users/simon/Documents/1/K-Means/kmeanscluster.m",
+		"/C/Users/simon/Documents/1/ParticleSwarm/ParticleSwarm.m",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/longestCommonSubstring.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/InterviewQuestions.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/allSubstring.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/apply-call-bind.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/ascii.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/applyOperationsToArray.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Sorting/insertionSort.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/test.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/permutation.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/css/app.css",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/js/lib/angular/angular.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/views/index2.jade",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/package.json",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Sorting/quickSort.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Sorting/mergeSort.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Sorting/bubbleSort.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/toBinary.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/app.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/js/app.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/js/services.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/js/filters.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/js/directives.js",
+		"/C/Users/simon/Documents/Web Dev/FP-Tech-Challenge/public/js/controllers.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/findLargestLexicographicalString.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts/httpheaders.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/GeneralConcepts/urlresponse.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/lowestCommonAncestor.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/longestPalindrome.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/randomAndRound.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/font.css",
+		"/C/Users/simon/Documents/Web Dev/webpack-express-boilerplate/server.js",
+		"/C/Users/simon/Documents/Web Dev/webpack-express-boilerplate/package.json",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/printParenthesis.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/findLargestLexicographicalString.js",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/lib/frexServer.ex",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/components/App.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/components/NavigationBar.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/components/FlippableSentence.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/flippableSentence.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/gameScreen.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/components/GameScreen.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/matchingGame.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/navigationBar.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/components/EpisodeTileGallery.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/components/EpisodeTile.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/screenplayGame.html",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/screenplayGame.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/episodeTileGallery.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/utility/gameScreenHelper.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/utility/screenPlayGameHelper.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/utility/googleAnalytics.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/utility/googleAnalytics.js",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/navbar.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/css/app.css",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/googleAnalytics.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/webpack.config.babel.js",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/screenplayGame.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/NavigationBar.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/EpisodeTile.jsx",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/js/App.jsx",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/longestUniqSubstring.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/reverseSingleLinkedList.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/flatten.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/reverseString.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/factorial.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/text.css",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/longestCommonSubSequence.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Sorting/selectionSort.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/squareRoot.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/OOPConcepts/ThreePillarsOOP.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/OOPConcepts/GeneralOOP.txt",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/OOPConcepts/GeneralOOP.cs",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures/treeTraversals.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures/avlTree.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/SampleProblem/stringAlphabetEncoding.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/javascript-vs-jQuery.js",
+		"/C/Users/simon/Documents/Web Dev/frex-backend/frex-backend/frontend/index.html",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/vendor-prefixes.css",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/selectors.css",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/background.css",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/gcd.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/main.css",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/CSSConcepts/addingCSS.css",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/event-propagation.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/equal-signs.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/factorsIsPrime.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/identying-variable-type.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/JSConcepts/currying.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures/treeHeight.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/treeTraversals.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/postOrderTraversal.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/inOrderTraversal.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/Algorithm/preOrderTraversal.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures/queue.js",
+		"/C/Users/simon/Dropbox/WATERLOO/Programming/DataStructures/stack.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\simon\\Documents\\Web Dev\\frex-backend\\frex-backend\\frontend",
+			"C:\\Users\\simon\\Dropbox\\WATERLOO\\Programming",
+			"C:\\Users\\simon\\Documents\\Web Dev\\jamarshon.appspot.com\\",
+			"C:\\Users\\simon\\Documents\\Web Dev\\jamarshon.appspot.com\\static\\styles\\",
+			"C:\\Users\\simon\\Documents\\Web Dev\\jamarshon.appspot.com\\static\\stylespre#sour\\",
+			"C:\\Users\\simon\\Documents\\Web Dev\\jamarshon.appspot.com\\static\\scripts\\",
+			"C:\\Users\\simon\\Documents\\Web Dev\\jamarshon.appspot.com\\static\\scripts\\modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chen",
+			"jeffrey",
+			"rest",
+			"traversal",
+			"sort",
+			"console.log",
+			"rawPrice",
+			"rawPriceOne",
+			":",
+			" {",
+			"n1",
+			"|",
+			"font",
+			"font-size:",
+			"1.42857143",
+			"#3EA87F",
+			"html",
+			".html",
+			"flippableSentenceContainer",
+			"dimOnHover",
+			"styles.tilestyle",
+			"tilestyle",
+			".gamescreen",
+			"redirect",
+			"metadata",
+			"this.props",
+			"key",
+			".html",
+			"dataSource",
+			"episodes",
+			"dataSource",
+			"style=",
+			"textAlign",
+			"dim",
+			"',",
+			": '",
+			"gamescreen",
+			"header-link-button",
+			"renderChunks",
+			"classname",
+			"datasource",
+			".bind",
+			"handleFrenchClick",
+			".bind(",
+			"tileStyle",
+			"',",
+			": '",
+			"tileStyle",
+			"transcriptArea",
+			"englishTilesArea",
+			"dim-on-hover",
+			"englishTiles",
+			"english-tiles-area",
+			"header-link-button",
+			"lineStyle",
+			"',",
+			": '",
+			"tileStyle",
+			"shuffle",
+			"getQueryParameterByName",
+			"rngseed",
+			"window",
+			"startidx",
+			"FlippableSentence",
+			"rngSeed",
+			"seed",
+			"random",
+			"window.",
+			"random",
+			"startIdx",
+			"',",
+			": '",
+			"startIdx",
+			"initialStartIdx",
+			"dataSource",
+			"startIdx",
+			"getQueryParameterByName",
+			"res",
+			"=",
+			"src",
+			"/>",
+			"<EpisodeTile srcOfMousedOverTile={this.state.srcOfMousedOverTile} onMouseLeave={ml} onMouseEnter={mo} ",
+			".html",
+			"arr",
+			"Arr",
+			"arr",
+			"|",
+			"}",
+			"|",
+			"ilen",
+			"css",
+			".height",
+			"rightChild",
+			"leftChild",
+			"rotateLeft",
+			"rotateRight",
+			"rebalance",
+			"updateheight",
+			"mergeSort",
+			"preOrder",
+			"Stack",
+			"permutate",
+			"binarySearch",
+			"A",
+			"Value",
+			"value",
+			"Value",
+			"value",
+			"Value",
+			"value",
+			"sortedArray",
+			"recursiveBinarySearch",
+			"key",
+			"this.remove()",
+			".on(",
+			"settimeout",
+			"Analytics",
+			"#source-code",
+			"return",
+			"new",
+			"<span class=\"blue keyword\">",
+			"var",
+			"Analytics",
+			"$",
+			"TemplateLoader",
+			"getPageId",
+			"tileArray",
+			".text("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"right",
+			"left",
+			"<span class=\"red keyword\">return</span>",
+			"<span class=\"red keyword\">new</span>",
+			"<span class=\"blue keyword\">var</span>",
+			"<span class=\"blue keyword\">",
+			"class=\"jamarshon-tile hvr-grow\"",
+			"/downloads/p0/",
+			"class=\"jamarshon-tile\" id=\"tile-\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Algorithm/permutation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Algorithm/factorsIsPrime.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Algorithm/toBinary.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "SampleProblem/applyOperationsToArray.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 349.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Algorithm/allSubstring.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Sorting/mergeSort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 508.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Sorting/quickSort.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "JSConcepts/shift-unshift.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 435.0
+	},
+	"pinned_build_system": "",
+	"project": "JavaScript-Data-Structures-Algorithms-Concepts.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"quick",
+				"Sorting\\quickSort.js"
+			],
+			[
+				"merge",
+				"Sorting\\mergeSort.js"
+			],
+			[
+				"tob",
+				"Algorithm\\toBinary.js"
+			],
+			[
+				"ispri",
+				"Algorithm\\factorsIsPrime.js"
+			],
+			[
+				"pe",
+				"Algorithm\\permutation.js"
+			],
+			[
+				"subst",
+				"Algorithm\\allSubstring.js"
+			],
+			[
+				"permu",
+				"Algorithm\\permutation.js"
+			],
+			[
+				"mergesor",
+				"Sorting\\mergeSort.js"
+			],
+			[
+				"per",
+				"Algorithm\\permutation.js"
+			],
+			[
+				"shif",
+				"JSConcepts\\shift-unshift.js"
+			],
+			[
+				"binary",
+				"Algorithm\\binarySearch.js"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"inher",
+				"JSConcepts\\inheritance.js"
+			],
+			[
+				"order",
+				"DataStructures\\levelOrder.js"
+			],
+			[
+				"all",
+				"Algorithm\\allSubstring.js"
+			],
+			[
+				"perm",
+				"Algorithm\\permutation.js"
+			],
+			[
+				"insert",
+				"Sorting\\insertionSort.js"
+			],
+			[
+				"app.css",
+				"public\\css\\app.css"
+			],
+			[
+				"angular.js",
+				"public\\js\\lib\\angular\\angular.js"
+			],
+			[
+				"app.cs",
+				"public\\css\\app.css"
+			],
+			[
+				"cont",
+				"public\\js\\controllers.js"
+			],
+			[
+				"index.",
+				"views\\index.jade"
+			],
+			[
+				"api.",
+				"routes\\api.js"
+			],
+			[
+				"call",
+				"JSConcepts\\apply-call-bind.js"
+			],
+			[
+				"q",
+				"Sorting\\quickSort.js"
+			],
+			[
+				"so",
+				"Sorting\\mergeSort.js"
+			],
+			[
+				"bub",
+				"Sorting\\bubbleSort.js"
+			],
+			[
+				"insertion",
+				"Sorting\\insertionSort.js"
+			],
+			[
+				"sele",
+				"Sorting\\selectionSort.js"
+			],
+			[
+				"large",
+				"SampleProblem\\findLargestLexicographicalString.js"
+			],
+			[
+				"mer",
+				"Sorting\\mergeSort.js"
+			],
+			[
+				"test.",
+				"test.js"
+			],
+			[
+				"quic",
+				"Sorting\\quickSort.js"
+			],
+			[
+				"test.js",
+				"test.js"
+			],
+			[
+				"matchi",
+				"frontend\\css\\matchingGame.css"
+			],
+			[
+				"flip",
+				"frontend\\css\\flippableSentence.css"
+			],
+			[
+				"flipp",
+				"frontend\\js\\components\\FlippableSentence.jsx"
+			],
+			[
+				"flippa",
+				"frontend\\js\\components\\FlippableSentence.jsx"
+			],
+			[
+				"flippab",
+				"frontend\\css\\flippableSentence.css"
+			],
+			[
+				"game",
+				"frontend\\css\\gameScreen.css"
+			],
+			[
+				"matching",
+				"frontend\\css\\matchingGame.css"
+			],
+			[
+				"nav",
+				"frontend\\css\\navigationBar.css"
+			],
+			[
+				"navi",
+				"frontend\\js\\components\\NavigationBar.jsx"
+			],
+			[
+				"scree",
+				"frontend\\css\\screenplayGame.css"
+			],
+			[
+				"episode",
+				"frontend\\css\\episodeTileGallery.css"
+			],
+			[
+				"episod",
+				"frontend\\js\\components\\EpisodeTile.jsx"
+			],
+			[
+				"app.",
+				"frontend\\js\\components\\App.jsx"
+			],
+			[
+				"long",
+				"Algorithm\\longestUniqSubstring.js"
+			],
+			[
+				"var",
+				"JSConcepts\\identying-variable-type.js"
+			],
+			[
+				"qu",
+				"Sorting\\quickSort.js"
+			],
+			[
+				"bina",
+				"Algorithm\\binarySearch.js"
+			],
+			[
+				"sel",
+				"Sorting\\selectionSort.js"
+			],
+			[
+				"b",
+				"Sorting\\bubbleSort.js"
+			],
+			[
+				"ins",
+				"Sorting\\insertionSort.js"
+			],
+			[
+				"selec",
+				"Sorting\\selectionSort.js"
+			],
+			[
+				"merg",
+				"Sorting\\mergeSort.js"
+			],
+			[
+				"al",
+				"Algorithm\\allSubstring.js"
+			],
+			[
+				"binar",
+				"Algorithm\\binarySearch.js"
+			],
+			[
+				"inser",
+				"Sorting\\insertionSort.js"
+			],
+			[
+				"bi",
+				"Algorithm\\binarySearch.js"
+			],
+			[
+				"root",
+				"Algorithm\\squareRoot.js"
+			],
+			[
+				"qi",
+				"Sorting\\quickSort.js"
+			],
+			[
+				"bs.",
+				"Sorting\\bubbleSort.js"
+			],
+			[
+				"sq",
+				"Algorithm\\squareRoot.js"
+			],
+			[
+				"jquer",
+				"JSConcepts\\javascript-vs-jQuery.js"
+			],
+			[
+				"avl",
+				"DataStructures\\avlTree.js"
+			],
+			[
+				"bs",
+				"Sorting\\bubbleSort.js"
+			],
+			[
+				"se",
+				"Sorting\\selectionSort.js"
+			],
+			[
+				"sqr",
+				"Algorithm\\squareRoot.js"
+			],
+			[
+				"",
+				"test.js"
+			],
+			[
+				"ms",
+				"Sorting\\mergeSort.js"
+			],
+			[
+				"ide",
+				"JSConcepts\\identying-variable-type.js"
+			],
+			[
+				"pos",
+				"Algorithm\\postOrderTraversal.js"
+			],
+			[
+				"in",
+				"Algorithm\\inOrderTraversal.js"
+			],
+			[
+				"pre",
+				"Algorithm\\preOrderTraversal.js"
+			],
+			[
+				"post",
+				"Algorithm\\postOrderTraversal.js"
+			],
+			[
+				"pot",
+				"Algorithm\\preOrderTraversal.js"
+			],
+			[
+				"iot",
+				"Algorithm\\inOrderTraversal.js"
+			],
+			[
+				"port",
+				"Algorithm\\preOrderTraversal.js"
+			],
+			[
+				"quics",
+				"Sorting\\quickSort.js"
+			],
+			[
+				"main.js",
+				"static\\scripts\\main.js"
+			],
+			[
+				".css",
+				"static\\styles\\main.css"
+			],
+			[
+				"anal",
+				"static\\scripts\\utils\\analytics.js"
+			],
+			[
+				"pag",
+				"static\\json\\page0.json"
+			],
+			[
+				"ma",
+				"templates\\main.html"
+			],
+			[
+				"main.py",
+				"main.py"
+			],
+			[
+				"arrowhlp",
+				"static\\scripts\\utils\\arrowHelper.js"
+			],
+			[
+				"analys",
+				"static\\scripts\\utils\\analytics.js"
+			],
+			[
+				"p0.",
+				"static\\json\\page0.json"
+			],
+			[
+				"p1",
+				"static\\legacy-modules\\source-code\\page1.html"
+			],
+			[
+				"page1",
+				"static\\legacy-modules\\source-code\\page1.html"
+			],
+			[
+				"router",
+				"static\\scripts\\router.js"
+			],
+			[
+				"pag2",
+				"static\\legacy-modules\\source-code\\page2.html"
+			],
+			[
+				"polyhedro",
+				"static\\scripts\\views\\polyhedronView.js"
+			],
+			[
+				"page3.",
+				"static\\legacy-modules\\source-code\\page3.html"
+			],
+			[
+				"arrowhe",
+				"static\\scripts\\utils\\arrowHelper.js"
+			],
+			[
+				"anla",
+				"static\\scripts\\utils\\analytics.js"
+			],
+			[
+				"main2.",
+				"main2.py"
+			],
+			[
+				"frone",
+				"static\\frontendprocess.js"
+			],
+			[
+				"butto",
+				"static\\legacy-modules\\button.html"
+			],
+			[
+				"n",
+				"static\\legacy-modules\\navigation-bar.html"
+			],
+			[
+				"main.",
+				"templates\\main.html"
+			],
+			[
+				"arv",
+				"static\\scripts\\views\\arrowView.js"
+			],
+			[
+				"soc",
+				"static\\styles\\source-code.css"
+			],
+			[
+				"ja",
+				"static\\styles\\jamarshon.css"
+			],
+			[
+				"main.cs",
+				"static\\styles\\main.css"
+			],
+			[
+				"p8",
+				"static\\legacy-modules\\source-code\\page8.html"
+			],
+			[
+				"p9",
+				"static\\legacy-modules\\source-code\\page9.html"
+			],
+			[
+				"dr",
+				"draw2.py"
+			],
+			[
+				"a.p",
+				"a.py"
+			],
+			[
+				"po",
+				"static\\styles\\polyhedron.css"
+			],
+			[
+				"bv",
+				"static\\scripts\\views\\buttonView.js"
+			],
+			[
+				"mpv",
+				"static\\scripts\\pages\\mainPageView.js"
+			],
+			[
+				"spv",
+				"static\\scripts\\pages\\sourcePageView.js"
+			],
+			[
+				"ar",
+				"static\\styles\\arrow.css"
+			],
+			[
+				"p2",
+				"static\\legacy-modules\\source-code\\page2.html"
+			],
+			[
+				"p3",
+				"static\\legacy-modules\\source-code\\page3.html"
+			],
+			[
+				"utilhe",
+				"static\\scripts\\utils\\utilHelper.js"
+			],
+			[
+				"polv",
+				"static\\scripts\\views\\polyhedronView.js"
+			],
+			[
+				"main",
+				"templates\\main.html"
+			],
+			[
+				"p7",
+				"static\\legacy-modules\\source-code\\page7.html"
+			],
+			[
+				"p6",
+				"static\\legacy-modules\\source-code\\page6.html"
+			],
+			[
+				"p5",
+				"static\\legacy-modules\\source-code\\page5.html"
+			],
+			[
+				"p4",
+				"static\\legacy-modules\\source-code\\page4.html"
+			],
+			[
+				"p0",
+				"static\\legacy-modules\\source-code\\page0.html"
+			],
+			[
+				"page6",
+				"static\\legacy-modules\\source-code\\page6.html"
+			],
+			[
+				"page5",
+				"static\\legacy-modules\\source-code\\page5.html"
+			],
+			[
+				"sour",
+				"static\\styles\\source-code.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 705.0,
+		"last_filter": "epi",
+		"selected_items":
+		[
+			[
+				"epi",
+				"C:\\Users\\simon\\Documents\\GitHub\\epi\\epi.sublime-project"
+			],
+			[
+				"lee",
+				"C:\\Users\\simon\\Documents\\GitHub\\leetcode\\leetcode.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\simon\\Documents\\GitHub\\usaco\\usaco.sublime-project"
+			],
+			[
+				"us",
+				"C:\\Users\\simon\\Documents\\GitHub\\usaco\\usaco.sublime-project"
+			],
+			[
+				"ches",
+				"C:\\Users\\simon\\Documents\\MachineLearning\\ComputerVision\\chess-ai\\chess-ai.sublime-project"
+			],
+			[
+				"leet",
+				"C:\\Users\\simon\\Documents\\GitHub\\leetcode\\leetcode.sublime-project"
+			],
+			[
+				"nemo",
+				"C:\\Users\\simon\\Documents\\Web Dev\\nemoo\\nemoo.sublime-project"
+			]
+		],
+		"width": 1354.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

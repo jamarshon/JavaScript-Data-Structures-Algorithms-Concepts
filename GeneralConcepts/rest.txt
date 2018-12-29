@@ -1,0 +1,61 @@
+REST is the underlying architectural principle of the web. 
+The amazing thing about the web is the fact that clients (browsers) and 
+servers can interact in complex ways without the client knowing anything beforehand 
+about the server and the resources it hosts. 
+
+The key constraint is that the server and client must both agree on the media used, 
+which in the case of the web is HTML.
+
+An API that adheres to the principles of REST does not require the client to know anything 
+about the structure of the API. Rather, the server needs to provide whatever information the 
+client needs to interact with the service. 
+
+An HTML form is an example of this: The server specifies the location of the resource, 
+and the required fields. The browser doesn't know in advance where to submit the information, 
+and it doesn't know in advance what information to submit. Both forms of information are 
+entirely supplied by the server. (This principle is called HATEOAS.)
+
+So, how does this apply to HTTP, and how can it be implemented in practice? HTTP is 
+oriented around verbs and resources. The two verbs in mainstream usage are GET and POST, 
+which I think everyone will recognize. However, the HTTP standard defines several others 
+such as PUT and DELETE. These verbs are then applied to resources, according to the 
+instructions provided by the server.
+
+For example, Let's imagine that we have a user database that is managed by a web service. 
+Our service uses a custom hypermedia based on JSON, for which we assign the mimetype 
+application/json+userdb (There might also be an application/xml+userdb and application/whatever+userdb 
+- many media types may be supported). The client and the server has both been programmed to understand 
+this format, but they don't know anything about each other. As Roy Fielding points out:
+
+A REST API should spend almost all of its descriptive effort in defining the media type(s) 
+used for representing resources and driving application state, or in defining extended relation 
+names and/or hypertext-enabled mark-up for existing standard media types.
+
+A request for the base resource / might return something like this:
+
+Request
+
+POST /user
+fname=John&lname=Doe&age=25
+
+Response
+
+200 OK
+Location: /user/123
+
+We know from the description of our media that we can find information about related resources 
+from sections called "links". This is called Hypermedia controls. In this case, we can tell from 
+such a section that we can find a user list by making another request for /user:
+
+Request
+
+GET /user
+Accept: application/json+userdb
+Response
+
+200 OK
+Content-Type: application/json+userdb
+
+
+Notice that we are using different HTTP verbs (GET, PUT, POST, DELETE etc.) to manipulate 
+these resources, and that the only knowledge we presume on the clients part is our media definition.
